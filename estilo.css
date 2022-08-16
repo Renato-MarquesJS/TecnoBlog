@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    background: #e6e6e6;
+}
+
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+#cabecalho {
+    background-color: rgb(8, 123, 255);
+    padding: 10px;
+    text-align: center;
+    
+}
+
+#arealogo, #menu {
+    margin-bottom: 10px;
+
+}
+
+.branco {
+    color: #e6e6e6;
+}
+
+
+
+
+
+
+
+
+
+
+
