@@ -80,10 +80,6 @@ a:hover {
     
 }
 
-#postagens, #area-lateral {
-    background: white;
-}
-
 #postagens {
     width: 660px;
     float: left;
@@ -97,12 +93,23 @@ a:hover {
 
 }
 
-
-
 #area-lateral {
+    background: white;
+    padding: 5px;
     width: 240px;
     float: right;
 
+}
+
+.lateral {
+    background: rgb(204, 204, 204);
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+.postlateral {
+    
 }
 
 #rodape {
