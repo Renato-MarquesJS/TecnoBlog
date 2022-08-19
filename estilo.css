@@ -14,7 +14,7 @@ body {
 **** Layout ****
 */
 #area-cabecalho {
-	background-color: #0073f7;
+	background-color: #009cf7;
 	padding: 15px;
 	text-align: center;
 }
@@ -72,7 +72,7 @@ a {
 }
 
 a:link, a:visited {
-	color: #00a9f7;
+	color: #f7b600;
 }
 
 a:hover {
@@ -85,7 +85,7 @@ a:hover {
 }
 
 #area-cabecalho a:hover {
-	color: #ffffff;
+	color: #f7b600;
 	background: #FFF;
 	text-decoration: none;
 }
@@ -99,7 +99,7 @@ h1 {
 }
 
 h2 {
-	color: #0080f7;
+	color: #f7b600;
 }
 
 h3 {
